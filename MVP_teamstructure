@@ -1,0 +1,60 @@
+# MVP Team Structure and Work Breakdown Strategy
+
+## Guiding Principles
+- Small, cross-functional teams
+- Minimal coordination overhead
+- Clear ownership
+- Speed over perfection during MVP
+
+---
+
+## MVP Phase: Team Breakdown
+
+### Goal
+Validate the product quickly with the smallest effective team while maintaining acceptable reliability.
+
+---
+
+## Product Development Team (4 Developers)
+
+### Responsibilities
+- Frontend development (web/mobile responsive UI)
+- Backend development (APIs, business logic)
+- Database design and implementation
+- Third-party integrations
+- Basic testing and bug fixing
+
+### Rationale
+A single cross-functional team minimizes handoffs, enables rapid iteration, and keeps accountability clear during the MVP stage.
+
+---
+
+## Design Team (1–2 Designers)
+
+### Responsibilities
+- UX/UI design and user flows
+- Mobile responsiveness
+- Basic brand identity (colors, typography, visual language)
+- Design handoff and collaboration with developers
+
+### Rationale
+Design quality is essential early, but specialization is unnecessary at MVP scale.
+
+---
+
+## DevOps / Infrastructure (1 Engineer – Part-Time or Shared)
+
+### Responsibilities
+- Initial infrastructure setup
+- CI/CD pipelines
+- Environment management (dev, staging, prod)
+- Monitoring and basic scalability planning
+
+### Rationale
+Infrastructure is kept intentionally lightweight while ensuring reliable deployments and a clear path to scale.
+
+---
+
+## Summary
+
+The MVP team structure prioritizes speed, learning, and simplicity. By keeping teams small and cross-functional, the organization can validate assumptions quickly while maintaining sufficient technical quality to evolve into a production-ready system.
